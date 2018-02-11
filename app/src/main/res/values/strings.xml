@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Game Arena</string>
+    <string name="title_activity_diceact">diceact</string>
+    <string name="title_activity_diceactv">diceactv</string>
+</resources>
